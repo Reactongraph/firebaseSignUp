@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356959533059",
+    "firebase_url": "https://fir-signup-5ac90.firebaseio.com",
+    "project_id": "fir-signup-5ac90",
+    "storage_bucket": "fir-signup-5ac90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356959533059:android:87fe60d5a49a795f",
+        "android_client_info": {
+          "package_name": "com.firebasesignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356959533059-purvpcu69hr2ngtps4710cvsud6d4771.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5QyFg9bZiP8o3NR-Kwd6Pq5NMPhvJTuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356959533059-purvpcu69hr2ngtps4710cvsud6d4771.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

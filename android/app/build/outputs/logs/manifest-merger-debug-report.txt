@@ -1,0 +1,570 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.59.8] /home/ongraph/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/6f49115de189b08ac35cf5e1527c5b1c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/506e00343e7f40f8449fd650703ed2b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/0c438f3c30654d82a918f94005234e22/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/eea5fbb954f019fe2045cb3178f8a4c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-17.0.0.aar/224fc44a3d3d26e7136645b6307fee1a/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/3a3c5d87df0b4dfcb34df17eef772d7a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/9e8aeda90e58f0a1f1bb992b2bcd17c9/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/fab05ec2fac13964ab7a5b461ba66a4a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/9abe3edefe8462078daa3927d24975ec/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/963132742df2592df34b66217e463a23/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.5.0.aar/7e5e5e36711f2fabd3ac24c30e4aa5be/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.5.0.aar/09b50de8e1e5a586cc36bf1678591ee7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/cfa62c49b3d43975e1e3b4d2a4b2676f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/8249ce8d6ff81336e2c58701d6aaadc1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/bdfecb8e7c4287f7012c6bff47b4eadd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/0ccc51b9940fd944cd327071e07db738/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/28829f7e076ecd8e65b34b36070b8cd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/f6522d64761f7abad7d11a16814bb0b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bb0101a2855a98a06108c7039f21a488/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/38ba2cd475937cc40fae304f382a1505/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/46e99a8b576bb1fed049a1f5e52da520/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/650944860ac98b237422c4c3d5bf3764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/659949472b95b575d991b2452b56b770/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2666aa1474ac0757c277ac19f952bc6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/283e5e46c72fde381c60632a2bfab510/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/da2ec2edf527d426718d84adec151219/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4c90eb943c8ca11a8921e1d79a86f1d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/329f5e077f9bccab1f007e892baa123d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ea0528e5517b42d5701619f07bd00854/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/099bb18e48f08d4365a86803db139447/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/92219d5cd8fe389538eea6add8be50a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2472779ac30b40d58000da0b6960fdc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/60820199f1d3c7dae46c4d289a527500/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6ca5587d628d81163bceeaf3def134dd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6ece6cb6279ef6db63dc71f00b0b90c7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a8be0077e2e07ddd26dcf96f39d2bf9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/28f5bd978810035773c8de93ab62121b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c8e1d778645ad38f5d063c0568f36063/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/72198eded1ca0d9b188576e7d62faf8a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5ff481b5b50bda9cca1f99d933cb1ae2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1b8a177613b0e6ab6d3666a479ae5358/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/21e5d385bd4afdb0f3b091fae89e70d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/44b099a6e74f35e350193095307cee6f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9c18e22c82c3cbe4ea223916149017a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a968e4fcd5c424891fa6a1f57c3bffe8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8f4be005f43c947e91104823a6d749e5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/be4e9458f9a1fe11d61f44156284c51f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d79b049cea4e34caa325c1abc3aed358/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a2ebbbb0fd914df44b39e85a70ee84d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/fc348fdfa8815844fea13797cb9c9eb2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/3253e91829fc43f3a3f6359c6ceb5e69/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-feature#android.hardware.camera
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:8:5-84
+	android:required
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:8:58-82
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:9:5-94
+	android:required
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:9:68-92
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:9:19-67
+application
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:11:5-29:19
+MERGED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:11:5-29:19
+MERGED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:11:5-29:19
+MERGED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [com.facebook.react:react-native:0.59.8] /home/ongraph/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/6f49115de189b08ac35cf5e1527c5b1c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /home/ongraph/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/6f49115de189b08ac35cf5e1527c5b1c/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/0c438f3c30654d82a918f94005234e22/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/0c438f3c30654d82a918f94005234e22/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-17.0.0.aar/224fc44a3d3d26e7136645b6307fee1a/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-17.0.0.aar/224fc44a3d3d26e7136645b6307fee1a/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/3a3c5d87df0b4dfcb34df17eef772d7a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/3a3c5d87df0b4dfcb34df17eef772d7a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/9e8aeda90e58f0a1f1bb992b2bcd17c9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/9e8aeda90e58f0a1f1bb992b2bcd17c9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/fab05ec2fac13964ab7a5b461ba66a4a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/fab05ec2fac13964ab7a5b461ba66a4a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/9abe3edefe8462078daa3927d24975ec/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/9abe3edefe8462078daa3927d24975ec/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/963132742df2592df34b66217e463a23/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/963132742df2592df34b66217e463a23/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.5.0.aar/7e5e5e36711f2fabd3ac24c30e4aa5be/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.5.0.aar/7e5e5e36711f2fabd3ac24c30e4aa5be/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.5.0.aar/09b50de8e1e5a586cc36bf1678591ee7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.5.0.aar/09b50de8e1e5a586cc36bf1678591ee7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/cfa62c49b3d43975e1e3b4d2a4b2676f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/cfa62c49b3d43975e1e3b4d2a4b2676f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/8249ce8d6ff81336e2c58701d6aaadc1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/8249ce8d6ff81336e2c58701d6aaadc1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/bdfecb8e7c4287f7012c6bff47b4eadd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/bdfecb8e7c4287f7012c6bff47b4eadd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/0ccc51b9940fd944cd327071e07db738/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/0ccc51b9940fd944cd327071e07db738/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/60820199f1d3c7dae46c4d289a527500/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/60820199f1d3c7dae46c4d289a527500/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6ca5587d628d81163bceeaf3def134dd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6ca5587d628d81163bceeaf3def134dd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/fc348fdfa8815844fea13797cb9c9eb2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/fc348fdfa8815844fea13797cb9c9eb2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/60820199f1d3c7dae46c4d289a527500/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:13:7-39
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:13:7-39
+	tools:ignore
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:15:7-52
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:15:7-52
+	tools:targetApi
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:14:7-41
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:16:7-34
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:17:7-38
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:12:7-38
+activity#com.firebasesignup.MainActivity
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:18:7-27:18
+	android:label
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:windowSoftInputMode
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:22:9-51
+	android:configChanges
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:21:9-79
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:19:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:25:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:28:7-84
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml:28:17-81
+uses-sdk
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /home/ongraph/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/6f49115de189b08ac35cf5e1527c5b1c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /home/ongraph/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/6f49115de189b08ac35cf5e1527c5b1c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/506e00343e7f40f8449fd650703ed2b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/506e00343e7f40f8449fd650703ed2b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/0c438f3c30654d82a918f94005234e22/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/0c438f3c30654d82a918f94005234e22/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/eea5fbb954f019fe2045cb3178f8a4c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/eea5fbb954f019fe2045cb3178f8a4c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-17.0.0.aar/224fc44a3d3d26e7136645b6307fee1a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-17.0.0.aar/224fc44a3d3d26e7136645b6307fee1a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/3a3c5d87df0b4dfcb34df17eef772d7a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/3a3c5d87df0b4dfcb34df17eef772d7a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/9e8aeda90e58f0a1f1bb992b2bcd17c9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/9e8aeda90e58f0a1f1bb992b2bcd17c9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/fab05ec2fac13964ab7a5b461ba66a4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/fab05ec2fac13964ab7a5b461ba66a4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/9abe3edefe8462078daa3927d24975ec/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/9abe3edefe8462078daa3927d24975ec/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/963132742df2592df34b66217e463a23/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/963132742df2592df34b66217e463a23/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.5.0.aar/7e5e5e36711f2fabd3ac24c30e4aa5be/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.5.0.aar/7e5e5e36711f2fabd3ac24c30e4aa5be/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.5.0.aar/09b50de8e1e5a586cc36bf1678591ee7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.5.0.aar/09b50de8e1e5a586cc36bf1678591ee7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/cfa62c49b3d43975e1e3b4d2a4b2676f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/cfa62c49b3d43975e1e3b4d2a4b2676f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/8249ce8d6ff81336e2c58701d6aaadc1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/8249ce8d6ff81336e2c58701d6aaadc1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/bdfecb8e7c4287f7012c6bff47b4eadd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/bdfecb8e7c4287f7012c6bff47b4eadd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/0ccc51b9940fd944cd327071e07db738/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/0ccc51b9940fd944cd327071e07db738/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/28829f7e076ecd8e65b34b36070b8cd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/28829f7e076ecd8e65b34b36070b8cd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/f6522d64761f7abad7d11a16814bb0b8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/f6522d64761f7abad7d11a16814bb0b8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bb0101a2855a98a06108c7039f21a488/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bb0101a2855a98a06108c7039f21a488/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/38ba2cd475937cc40fae304f382a1505/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/38ba2cd475937cc40fae304f382a1505/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/46e99a8b576bb1fed049a1f5e52da520/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/46e99a8b576bb1fed049a1f5e52da520/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/650944860ac98b237422c4c3d5bf3764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/650944860ac98b237422c4c3d5bf3764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/659949472b95b575d991b2452b56b770/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/659949472b95b575d991b2452b56b770/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2666aa1474ac0757c277ac19f952bc6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2666aa1474ac0757c277ac19f952bc6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/283e5e46c72fde381c60632a2bfab510/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/283e5e46c72fde381c60632a2bfab510/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/da2ec2edf527d426718d84adec151219/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/da2ec2edf527d426718d84adec151219/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4c90eb943c8ca11a8921e1d79a86f1d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4c90eb943c8ca11a8921e1d79a86f1d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/329f5e077f9bccab1f007e892baa123d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/329f5e077f9bccab1f007e892baa123d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ea0528e5517b42d5701619f07bd00854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ea0528e5517b42d5701619f07bd00854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/099bb18e48f08d4365a86803db139447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/099bb18e48f08d4365a86803db139447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/92219d5cd8fe389538eea6add8be50a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/92219d5cd8fe389538eea6add8be50a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2472779ac30b40d58000da0b6960fdc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2472779ac30b40d58000da0b6960fdc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/60820199f1d3c7dae46c4d289a527500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/60820199f1d3c7dae46c4d289a527500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6ca5587d628d81163bceeaf3def134dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6ca5587d628d81163bceeaf3def134dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6ece6cb6279ef6db63dc71f00b0b90c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6ece6cb6279ef6db63dc71f00b0b90c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a8be0077e2e07ddd26dcf96f39d2bf9c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a8be0077e2e07ddd26dcf96f39d2bf9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/28f5bd978810035773c8de93ab62121b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/28f5bd978810035773c8de93ab62121b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c8e1d778645ad38f5d063c0568f36063/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c8e1d778645ad38f5d063c0568f36063/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/72198eded1ca0d9b188576e7d62faf8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/72198eded1ca0d9b188576e7d62faf8a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5ff481b5b50bda9cca1f99d933cb1ae2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5ff481b5b50bda9cca1f99d933cb1ae2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1b8a177613b0e6ab6d3666a479ae5358/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1b8a177613b0e6ab6d3666a479ae5358/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/21e5d385bd4afdb0f3b091fae89e70d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/21e5d385bd4afdb0f3b091fae89e70d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/44b099a6e74f35e350193095307cee6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/44b099a6e74f35e350193095307cee6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9c18e22c82c3cbe4ea223916149017a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9c18e22c82c3cbe4ea223916149017a7/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a968e4fcd5c424891fa6a1f57c3bffe8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a968e4fcd5c424891fa6a1f57c3bffe8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8f4be005f43c947e91104823a6d749e5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8f4be005f43c947e91104823a6d749e5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/be4e9458f9a1fe11d61f44156284c51f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/be4e9458f9a1fe11d61f44156284c51f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d79b049cea4e34caa325c1abc3aed358/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d79b049cea4e34caa325c1abc3aed358/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a2ebbbb0fd914df44b39e85a70ee84d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a2ebbbb0fd914df44b39e85a70ee84d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/fc348fdfa8815844fea13797cb9c9eb2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/fc348fdfa8815844fea13797cb9c9eb2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/3253e91829fc43f3a3f6359c6ceb5e69/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/3253e91829fc43f3a3f6359c6ceb5e69/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /home/ongraph/liveProject/reactNativeProject/firebaseSignUp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-auth-17.0.0.aar/66f6ce2e1d7c4b9c7b249c8e6e0c05cc/AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.5.0.aar/4bfe6c9fbc374776e14d0276e64cfc64/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.2.aar/e6121771727798f4472258c1ec0e32a8/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/fab05ec2fac13964ab7a5b461ba66a4a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/fab05ec2fac13964ab7a5b461ba66a4a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/fab05ec2fac13964ab7a5b461ba66a4a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/fab05ec2fac13964ab7a5b461ba66a4a/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/9abe3edefe8462078daa3927d24975ec/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/9abe3edefe8462078daa3927d24975ec/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/9abe3edefe8462078daa3927d24975ec/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/9abe3edefe8462078daa3927d24975ec/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/9abe3edefe8462078daa3927d24975ec/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.5.0.aar/82d1eac67bbcb99662fc7c3f442b2a51/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.5.0.aar/38af325ac9981e97bbf1bb4630dd6cc5/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.5.0.aar/0a34fa0ab766283276c7956fb0526396/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/0ccc51b9940fd944cd327071e07db738/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/0ccc51b9940fd944cd327071e07db738/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/ongraph/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/0ccc51b9940fd944cd327071e07db738/AndroidManifest.xml:24:13-58
